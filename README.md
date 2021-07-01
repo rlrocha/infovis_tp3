@@ -10,3 +10,8 @@ O desafio escolhido é o Mini-Challenge 2, que visa analisar a movimentação e 
 
 ## Desenvolvimento
 
+Abaixo estão as descrição das funcionalidades dos códigos utilizados de apoio para análise dos dados, bem como o código principal com as visualizações realizados para responder as perguntas do desafio.
+
+* [Joining Datasets](Joining Datasets.ipynb): Utilizado para realizar a junção das bases do cartão de crédito e fidelidade.
+* [preprocessing](preprocessing.ipynb): Utilizado para aplicar alguns ajustes necessários nas bases.
+* [ts_analysis](ts_analysis.ipynb): Utilizado para analisar o tempo de parada de cada veículo, possibilitando a descoberta das coordenadas dos locais, além de relacionar os ID's dos veículos aos cartões de crédito e fidelidade.
