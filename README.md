@@ -12,7 +12,7 @@ O desafio escolhido é o Mini-Desafio 2, que visa analisar a movimentação e da
 
 O trabalho foi desenvolvido utilizado a linguagem de programação Python. As bibliotecas Pandas e Altair foram utilizadas para analisar e visualizar os dados. O Numpy e o Datetime também foram utilizados para realizar calculos e processesar dados temporais, respectivamente.
 
-Abaixo estão as descrição das funcionalidades dos códigos utilizados de apoio para análise dos dados, bem como o código principal com as visualizações realizados para responder as perguntas do desafio.
+Abaixo estão as descrições das funcionalidades dos códigos utilizados de apoio para análise dos dados, bem como o código principal com as visualizações realizados para responder as perguntas do desafio.
 
 * [joining_datasets](joining_datasets.ipynb): Utilizado para realizar a junção das bases do cartão de crédito e fidelidade.
 * [preprocessing](preprocessing.ipynb): Utilizado para aplicar alguns ajustes necessários nas bases.
